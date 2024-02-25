@@ -1,0 +1,26 @@
+@font-face {
+    font-family: TT Interphases Pro;
+    src: url("/src/fonts/TT Interphases Pro Variable.ttf");
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+}
+button {
+    border: none;
+    background-color: transparent;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+.flex {
+    display: flex;
+}
+.jc-center {
+    justify-content: center;
+}
+.flex-gap-23 {
+    gap: 16px;
+}
